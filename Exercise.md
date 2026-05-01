@@ -1,4 +1,5 @@
 Step 2: Create Your First IntelliJ Project
+
 Step 2.1: On the welcome screen, click "New Project"
 Step 2.2: Fill in the settings:
 
